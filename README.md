@@ -2,7 +2,7 @@
 
 ## Introduction
 The task delves into the groundbreaking computational models for processing information directly on graphs, Graph Neural Networks (GNNs). We were to find author and co-author suggestions based on the given dataset.
-The project has been documented in 3 parts based on the task given.
+The project has been documented in 3 parts based on the task given.The model and other files have been uploaded along with the documents.
 
 ## Brief Description
 #### [Part 1]
